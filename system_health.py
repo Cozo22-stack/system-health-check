@@ -2,7 +2,7 @@
 system_health.py
 ----------------
 A lightweight system diagnostic tool that checks CPU, RAM, disk,
-and network health. Built as a resume/GitHub project to demonstrate
+and network health. Built to demonstrate
 IT support automation skills.
 
 Author: Cannon
